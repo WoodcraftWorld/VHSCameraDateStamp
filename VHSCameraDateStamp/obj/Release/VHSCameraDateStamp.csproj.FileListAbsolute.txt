@@ -1,0 +1,11 @@
+C:\Users\MaxHe\source\repos\VHSCameraDateStamp\VHSCameraDateStamp\bin\Release\VHSCameraDateStamp.exe.config
+C:\Users\MaxHe\source\repos\VHSCameraDateStamp\VHSCameraDateStamp\bin\Release\VHSCameraDateStamp.exe
+C:\Users\MaxHe\source\repos\VHSCameraDateStamp\VHSCameraDateStamp\bin\Release\VHSCameraDateStamp.pdb
+C:\Users\MaxHe\source\repos\VHSCameraDateStamp\VHSCameraDateStamp\obj\Release\VHSCameraDateStamp.csproj.AssemblyReference.cache
+C:\Users\MaxHe\source\repos\VHSCameraDateStamp\VHSCameraDateStamp\obj\Release\VHSCameraDateStamp.csproj.SuggestedBindingRedirects.cache
+C:\Users\MaxHe\source\repos\VHSCameraDateStamp\VHSCameraDateStamp\obj\Release\VHSCameraDateStamp.Form1.resources
+C:\Users\MaxHe\source\repos\VHSCameraDateStamp\VHSCameraDateStamp\obj\Release\VHSCameraDateStamp.Properties.Resources.resources
+C:\Users\MaxHe\source\repos\VHSCameraDateStamp\VHSCameraDateStamp\obj\Release\VHSCameraDateStamp.csproj.GenerateResource.cache
+C:\Users\MaxHe\source\repos\VHSCameraDateStamp\VHSCameraDateStamp\obj\Release\VHSCameraDateStamp.csproj.CoreCompileInputs.cache
+C:\Users\MaxHe\source\repos\VHSCameraDateStamp\VHSCameraDateStamp\obj\Release\VHSCameraDateStamp.exe
+C:\Users\MaxHe\source\repos\VHSCameraDateStamp\VHSCameraDateStamp\obj\Release\VHSCameraDateStamp.pdb
